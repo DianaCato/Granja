@@ -1,0 +1,36 @@
+.villa {
+  background-image: url("tile.webp");
+  background-color: transparent;
+}
+
+.button1{
+  background-color:greenyellow;
+  height: 30px;
+}
+.button2{
+  background-color:aqua;
+  height: 30px;
+}
+
+.button3{
+  background-color: deeppink;
+  height: 30px;
+}
+.button4{
+  background-color: mediumseagreen;
+  height: 30px;
+}
+
+.button5 {
+  background-color:  salmon;
+  height: 30px;
+}
+
+.contador {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 10px;
+  font-size: 20px;
+
+}
